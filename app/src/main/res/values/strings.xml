@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">MaterialDesignApp</string>
+    <string name="colors_and_fonts">Colors and Fonts</string>
+    <string name="styles_and_themes">Styles and Themes</string>
+    <string name="responsive_layouts">Responsive Layouts</string>
+    <string name="touch_selectors">Touch Selectors</string>
+    <string name="light_56sp">Light 56sp</string>
+    <string name="thin_italic_45sp">Thin Italic 45sp</string>
+    <string name="condensed_34sp">Condensed 34sp</string>
+    <string name="image_placeholder">Image Placeholder</string>
+    <string name="material_design">Material Design</string>
+    <string name="july_5_2020">July 5, 2020</string>
+    <string name="sample_body_text">Responsive design is the act of creating designs that respond
+        to a variety of screen sizes, shapes, and orientations.</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="drafts">Drafts</string>
+    <string name="sent">Sent</string>
+    <string name="trash">Trash</string>
+    <string name="icon_of_a_person">Icon Of A Person</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
 </resources>
